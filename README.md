@@ -7,7 +7,7 @@ Guten Tag,
 
 da wir bis dato noch nicht in Kontakt standen, möchte ich mich zunächst kurz vorstellen: Mein Name ist Judith Bertuleit und ich kontaktiere Sie im Auftrag eines Mandanten für eine Tätigkeit als Softwareentwickler. Mein Mandant ist ein führendes Beratungs- und Softwarehaus mit 35 Mitarbeitern an 3 Standorten und unterstützt seine Kunden hinsichtlich digitaler Innovationen.
 
-Gerne möchte ich Sie daher auf die Aufgabe als PHP Symfony Entwickler (w/m/d) aufmerksam machen. Diese Position bietet Ihnen in einem höchst spannenden Geschäftsumfeld die Chance, mit modernen Arbeitsmitteln und einem starken Team im Rücken Ihre eigenen Ideen erfolgreich umzusetzen.
+Gerne möchte ich Sie daher auf die Aufgabe als PHP Symfony Entwickler (w/m/d) aufmerksam machen, welche sowohl vor Ort als auch zu 100% remote erfolgen werden kann. Diese Position bietet Ihnen in einem höchst spannenden Geschäftsumfeld die Chance, mit modernen Arbeitsmitteln und einem starken Team im Rücken Ihre eigenen Ideen erfolgreich umzusetzen.
 
 Anhand Ihres Profils vermute ich, dass diese anspruchsvolle Rolle als Entwicklungsschritt oder spannende Herausforderung zu Ihrem bisherigen beruflichen Werdegang passen könnte. 
 
