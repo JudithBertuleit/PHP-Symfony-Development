@@ -22,4 +22,5 @@ Consultant
 Personalwerk Sourcing GmbH
 
 Tel. +49 6039 9345-294
+
 Mail judith.bertuleit@personalwerk.de
