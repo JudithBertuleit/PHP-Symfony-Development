@@ -17,11 +17,7 @@ Ich danke Ihnen bereits im Vorfeld für Ihre Reaktion und verbleibe bis dahin
 
 mit den besten Grüßen
 
-Judith Bertuleit
-
-Consultant
-
-Personalwerk Sourcing GmbH
+Judith Bertuleit (Consultant, Personalwerk Sourcing GmbH)
 
 
 Tel. +49 6039 9345-294
